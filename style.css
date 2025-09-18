@@ -17,7 +17,7 @@ body {
 
 /* Estilo do título */
 h1 {
-  color: #322a9d; /* Verde mais suave */
+  color: #c8c832; /* amarelo mais suave */
   margin-bottom: 20px;
   font-size: 2.5rem;
   font-weight: bold;
@@ -51,7 +51,7 @@ p {
 /* Estilo do botão (caso queira adicionar um no futuro) */
 button {
   padding: 10px 20px;
-  background-color: #2a9d8f;
+  background-color: #c8c832;
   border: none;
   color: white;
   font-size: 1.1rem;
