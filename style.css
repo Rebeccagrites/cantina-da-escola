@@ -17,7 +17,7 @@ body {
 
 /* Estilo do título */
 h1 {
-  color: #c8c832; /* amarelo mais suave */
+  color: #be32c8; /* amarelo mais suave */
   margin-bottom: 20px;
   font-size: 2.5rem;
   font-weight: bold;
@@ -51,7 +51,7 @@ p {
 /* Estilo do botão (caso queira adicionar um no futuro) */
 button {
   padding: 10px 20px;
-  background-color: #c8c832;
+  background-color: #be32c8;
   border: none;
   color: white;
   font-size: 1.1rem;
@@ -61,6 +61,6 @@ button {
 }
 
 button:hover {
-  background-color: #c8c832;
+  background-color: #be32c8;
 }
 
